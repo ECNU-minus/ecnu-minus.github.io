@@ -13,7 +13,7 @@ LOGO尚在绘制中。
 
 ## 我们做了什么
 
-[旧闻缓递](notices.myecnu.org)：整合校内各部门通知公告
+[旧闻缓递](https://notices.myecnu.org)：整合校内各部门通知公告
 
 ## 我们和其他类似组织的关系
 
